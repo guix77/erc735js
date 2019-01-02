@@ -1,0 +1,9 @@
+{
+  "name": "erc735js",
+  "version": "0.0.1",
+  "description": "Helpers for ERC 735 contracts",
+  "main": "index.js",
+  "repository": "https://github.com/guix77/erc735js.git",
+  "author": "Guillaume Duveau <guillaume.duveau@gmail.com>",
+  "license": "MIT"
+}
