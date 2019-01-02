@@ -1,6 +1,6 @@
 {
   "name": "erc735js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helpers for ERC 735 contracts",
   "main": "index.js",
   "repository": "https://github.com/guix77/erc735js.git",
